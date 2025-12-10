@@ -70,6 +70,10 @@ Los archivos __init__.py contienen las sentencias de importación estándar para
 Ahora debemos logeanos en nuestra sesión de Odoo como desarolladores, buscar el nombre del módulo y activarlo.
 <img width="857" height="612" alt="image" src="https://github.com/user-attachments/assets/a7e449c7-896e-4e60-a1c6-bf3aa46d81a3" />
 
+Vamos al apartado de contactos, entramos en uno y ya deberíamos ver el apartado de membresía:
+
+<img width="951" height="860" alt="image" src="https://github.com/user-attachments/assets/2dcdc160-48bf-4869-92f7-00345f56f6d8" />
+
 
 http://localhost:8069/web?debug=1#menu_id=105&action=123
 
