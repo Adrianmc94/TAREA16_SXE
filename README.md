@@ -74,6 +74,9 @@ Vamos al apartado de contactos, entramos en uno y ya deberíamos ver el apartado
 
 <img width="951" height="860" alt="image" src="https://github.com/user-attachments/assets/2dcdc160-48bf-4869-92f7-00345f56f6d8" />
 
+Ahora el nº de Socio nos aparece en la "ficha" del cliente:
+<img width="452" height="206" alt="image" src="https://github.com/user-attachments/assets/b3c67a6b-0338-4ca5-8bb3-9fc7fd360a8d" />
+
 
 http://localhost:8069/web?debug=1#menu_id=105&action=123
 
